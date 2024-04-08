@@ -1,16 +1,7 @@
 # Kraken
 
 ```sh
-cargo install krk
-krk create
-```
-
-```sh
 cargo shuttle run
-```
-
-```sh
-cargo shuttle deploy
 ```
 
 ## Tech Stack
@@ -19,7 +10,6 @@ cargo shuttle deploy
 - Axum
 - Askama
 - Tailwindcss
-- Htmx
 
 ## Secreenshots
 
